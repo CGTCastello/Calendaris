@@ -92,4 +92,20 @@
   actualitza();
   // Precarrega fonts i logo perquè la descàrrega siga immediata
   window.CalendariPDF.carregaRecursos().catch(() => {});
+
+  // Dins d'un iframe: avisa la pàgina mare de l'altura perquè l'iframe no tinga barra de desplaçament
+  if (window.parent !== window) {
+    document.documentElement.classList.add("incrustat");
+    let ultima = 0;
+    const avisa = () => {
+      const alcada = Math.ceil(document.documentElement.getBoundingClientRect().height);
+      if (alcada !== ultima) {
+        ultima = alcada;
+        window.parent.postMessage({ tipus: "cgt-calendari-alcada", alcada }, "*");
+      }
+    };
+    new ResizeObserver(avisa).observe(document.documentElement);
+    window.addEventListener("load", avisa);
+    avisa();
+  }
 })();
