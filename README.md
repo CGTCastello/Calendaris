@@ -1,6 +1,6 @@
 # Calendari laboral 2027 · CGT Castelló
 
-Web estàtica (GitHub Pages) que genera el calendari laboral 2027 en PDF per a qualsevol municipi de la província de Castelló: 12 festes nacionals i autonòmiques de la Comunitat Valenciana + les 2 festes locals del municipi (14 en total).
+Web estàtica (GitHub Pages) que genera el calendari laboral 2027 en PDF per a qualsevol municipi de la província de Castelló: 12 festes nacionals i autonòmiques del País Valencià + les 2 festes locals del municipi (14 en total).
 
 ## Com funciona
 
@@ -14,7 +14,7 @@ Colors al calendari: **roig** nacional, **negre** autonòmic, **groc** local.
 
 ## Fonts de les dades
 
-- Decret 42/2026, de 20 de març, del Consell: calendari laboral 2027 de la Comunitat Valenciana.
+- Decret 42/2026, de 20 de març, del Consell: calendari laboral 2027 del País Valencià.
 - BOP de Castelló núm. 136, de 10 de novembre de 2026 (resolució 04772-2026): festes locals de la província de Castelló.
 
 ## Actualitzar per a un altre any

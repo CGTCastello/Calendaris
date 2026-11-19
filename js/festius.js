@@ -1,4 +1,4 @@
-// Calendari laboral 2027: 12 festes nacionals i autonòmiques de la Comunitat Valenciana
+// Calendari laboral 2027: 12 festes nacionals i autonòmiques del País Valencià
 // (Decret 42/2026, de 20 de març, del Consell) + 2 festes locals de cada municipi.
 window.ANY_CALENDARI = 2027;
 
@@ -9,7 +9,7 @@ window.FESTES_GENERALS = [
   { data: "2027-03-26", nom: "Divendres Sant", tipus: "nacional" },
   { data: "2027-03-29", nom: "Dilluns de Pasqua", tipus: "autonomic" },
   { data: "2027-05-01", nom: "Festa del Treball", tipus: "nacional" },
-  { data: "2027-10-09", nom: "Dia de la Comunitat Valenciana", tipus: "autonomic" },
+  { data: "2027-10-09", nom: "Dia del País Valencià", tipus: "autonomic" },
   { data: "2027-10-12", nom: "Festa Nacional d'Espanya", tipus: "nacional" },
   { data: "2027-11-01", nom: "Tots Sants", tipus: "nacional" },
   { data: "2027-12-06", nom: "Dia de la Constitució Espanyola", tipus: "nacional" },
@@ -19,7 +19,7 @@ window.FESTES_GENERALS = [
 
 window.TIPUS_FESTA = {
   nacional: { nom: "Nacional" },
-  autonomic: { nom: "Autonòmic (C. Valenciana)" },
+  autonomic: { nom: "Autonòmic (País Valencià)" },
   local: { nom: "Local" },
 };
 
