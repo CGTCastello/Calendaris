@@ -7,11 +7,11 @@ window.FESTES_LOCALS = [
   "festes": [
    {
     "data": "2027-08-16",
-    "nom": "El Cristo"
+    "nom": "El Crist"
    },
    {
     "data": "2027-12-07",
-    "nom": "San Ambrosio"
+    "nom": "Sant Ambrosi"
    }
   ]
  },
@@ -25,7 +25,7 @@ window.FESTES_LOCALS = [
    },
    {
     "data": "2027-05-17",
-    "nom": "Pascua Pentecostés"
+    "nom": "Pasqua de Pentecosta"
    }
   ]
  },
@@ -49,11 +49,11 @@ window.FESTES_LOCALS = [
   "festes": [
    {
     "data": "2027-03-30",
-    "nom": "“La Doblà”"
+    "nom": "«La Doblà»"
    },
    {
     "data": "2027-04-05",
-    "nom": "San Vicente"
+    "nom": "Sant Vicent"
    }
   ]
  },
@@ -63,11 +63,11 @@ window.FESTES_LOCALS = [
   "festes": [
    {
     "data": "2027-04-29",
-    "nom": "San Pedro"
+    "nom": "Sant Pere"
    },
    {
     "data": "2027-09-29",
-    "nom": "San Miguel"
+    "nom": "Sant Miquel"
    }
   ]
  },
@@ -77,11 +77,11 @@ window.FESTES_LOCALS = [
   "festes": [
    {
     "data": "2027-04-05",
-    "nom": "San Vicente"
+    "nom": "Sant Vicent"
    },
    {
     "data": "2027-11-15",
-    "nom": "San Bartolomé"
+    "nom": "Sant Bertomeu"
    }
   ]
  },
@@ -91,11 +91,11 @@ window.FESTES_LOCALS = [
   "festes": [
    {
     "data": "2027-04-05",
-    "nom": "San Vicente"
+    "nom": "Sant Vicent"
    },
    {
     "data": "2027-12-27",
-    "nom": "Tercer día de navidad"
+    "nom": "Tercer dia de Nadal"
    }
   ]
  },
@@ -119,7 +119,7 @@ window.FESTES_LOCALS = [
   "festes": [
    {
     "data": "2027-04-05",
-    "nom": "San Vicente"
+    "nom": "Sant Vicent"
    },
    {
     "data": "2027-08-09",
@@ -137,7 +137,7 @@ window.FESTES_LOCALS = [
    },
    {
     "data": "2027-09-27",
-    "nom": "Lunes de feria"
+    "nom": "Dilluns de fira"
    }
   ]
  },
@@ -175,11 +175,11 @@ window.FESTES_LOCALS = [
   "festes": [
    {
     "data": "2027-05-21",
-    "nom": "Santa Quiteria"
+    "nom": "Santa Quitèria"
    },
    {
     "data": "2027-10-01",
-    "nom": "San Miguel"
+    "nom": "Sant Miquel"
    }
   ]
  },
@@ -315,11 +315,11 @@ window.FESTES_LOCALS = [
   "festes": [
    {
     "data": "2027-03-25",
-    "nom": "Jueves Santo"
+    "nom": "Dijous Sant"
    },
    {
     "data": "2027-09-08",
-    "nom": "Ortisella"
+    "nom": "Festa de l'Ortisella"
    }
   ]
  },
@@ -329,11 +329,11 @@ window.FESTES_LOCALS = [
   "festes": [
    {
     "data": "2027-05-17",
-    "nom": "San Cristóbal"
+    "nom": "Sant Cristòfol"
    },
    {
     "data": "2027-08-16",
-    "nom": "San Roque"
+    "nom": "Sant Roc"
    }
   ]
  },
@@ -347,7 +347,7 @@ window.FESTES_LOCALS = [
    },
    {
     "data": "2027-08-24",
-    "nom": "San Bartolomé"
+    "nom": "Sant Bertomeu"
    }
   ]
  },
@@ -357,11 +357,11 @@ window.FESTES_LOCALS = [
   "festes": [
    {
     "data": "2027-01-22",
-    "nom": "San Antonio Abad y Santa Águeda"
+    "nom": "Sant Antoni Abat i Santa Àgueda"
    },
    {
     "data": "2027-09-22",
-    "nom": "Santo Tomás de Villanueva"
+    "nom": "Sant Tomàs de Villanueva"
    }
   ]
  },
@@ -371,11 +371,11 @@ window.FESTES_LOCALS = [
   "festes": [
    {
     "data": "2027-03-01",
-    "nom": "Lunes de Magdalena"
+    "nom": "Dilluns de la Magdalena"
    },
    {
     "data": "2027-04-05",
-    "nom": "San Vicente"
+    "nom": "Sant Vicent"
    }
   ]
  },
@@ -399,11 +399,11 @@ window.FESTES_LOCALS = [
   "festes": [
    {
     "data": "2027-02-03",
-    "nom": "San Blas"
+    "nom": "Sant Blai"
    },
    {
     "data": "2027-09-08",
-    "nom": "Virgen de la Misericordia"
+    "nom": "Mare de Déu de la Misericòrdia"
    }
   ]
  },
@@ -413,11 +413,11 @@ window.FESTES_LOCALS = [
   "festes": [
    {
     "data": "2027-04-05",
-    "nom": "San Vicente"
+    "nom": "Sant Vicent"
    },
    {
     "data": "2027-08-23",
-    "nom": "San Bartolomé"
+    "nom": "Sant Bertomeu"
    }
   ]
  },
@@ -459,7 +459,7 @@ window.FESTES_LOCALS = [
    },
    {
     "data": "2027-09-27",
-    "nom": "San Miquel"
+    "nom": "Sant Miquel"
    }
   ]
  },
@@ -511,11 +511,11 @@ window.FESTES_LOCALS = [
   "festes": [
    {
     "data": "2027-03-01",
-    "nom": "Lunes de la Magdalena"
+    "nom": "Dilluns de la Magdalena"
    },
    {
     "data": "2027-06-29",
-    "nom": "San Pedro"
+    "nom": "Sant Pere"
    }
   ]
  },
@@ -553,7 +553,7 @@ window.FESTES_LOCALS = [
   "festes": [
    {
     "data": "2027-09-13",
-    "nom": "Segundo día de la festividad de la Virgen del Niño Perdido"
+    "nom": "Segon dia de la Mare de Déu del Niño Perdido"
    },
    {
     "data": "2027-10-21",
@@ -581,11 +581,11 @@ window.FESTES_LOCALS = [
   "festes": [
    {
     "data": "2027-05-03",
-    "nom": "Fiestas patronales"
+    "nom": "Festes patronals"
    },
    {
     "data": "2027-05-04",
-    "nom": "Fiestas patronales"
+    "nom": "Festes patronals"
    }
   ]
  },
@@ -665,11 +665,11 @@ window.FESTES_LOCALS = [
   "festes": [
    {
     "data": "2027-05-17",
-    "nom": "San Cristóbal"
+    "nom": "Sant Cristòfol"
    },
    {
     "data": "2027-05-28",
-    "nom": "San Juan de Peñagolosa"
+    "nom": "Sant Joan de Penyagolosa"
    }
   ]
  },
@@ -679,11 +679,11 @@ window.FESTES_LOCALS = [
   "festes": [
    {
     "data": "2027-04-05",
-    "nom": "San Vicente Ferrer"
+    "nom": "Sant Vicent Ferrer"
    },
    {
     "data": "2027-08-25",
-    "nom": "Santísimo Cristo del Calvario"
+    "nom": "Santíssim Crist del Calvari"
    }
   ]
  },
@@ -749,11 +749,11 @@ window.FESTES_LOCALS = [
   "festes": [
    {
     "data": "2027-08-02",
-    "nom": "Ntra. Sra. de los Ángeles"
+    "nom": "Mare de Déu dels Àngels"
    },
    {
     "data": "2027-08-16",
-    "nom": "Asunción de la Virgen"
+    "nom": "Assumpció de la Mare de Déu"
    }
   ]
  },
@@ -777,11 +777,11 @@ window.FESTES_LOCALS = [
   "festes": [
    {
     "data": "2027-04-05",
-    "nom": "San Vicente"
+    "nom": "Sant Vicent"
    },
    {
     "data": "2027-09-06",
-    "nom": "El Cristo de la Sed"
+    "nom": "Crist de la Set"
    }
   ]
  },
@@ -847,11 +847,11 @@ window.FESTES_LOCALS = [
   "festes": [
    {
     "data": "2027-02-05",
-    "nom": "Santa Águeda"
+    "nom": "Santa Àgueda"
    },
    {
     "data": "2027-07-14",
-    "nom": "Cristo de la Sangre"
+    "nom": "Crist de la Sang"
    }
   ]
  },
@@ -875,11 +875,11 @@ window.FESTES_LOCALS = [
   "festes": [
    {
     "data": "2027-04-06",
-    "nom": "San Vicente"
+    "nom": "Sant Vicent"
    },
    {
     "data": "2027-09-29",
-    "nom": "San Miguel"
+    "nom": "Sant Miquel"
    }
   ]
  },
@@ -903,11 +903,11 @@ window.FESTES_LOCALS = [
   "festes": [
    {
     "data": "2027-01-22",
-    "nom": "San Antonio Abad"
+    "nom": "Sant Antoni Abat"
    },
    {
     "data": "2027-01-25",
-    "nom": "San Antonio Abad"
+    "nom": "Sant Antoni Abat"
    }
   ]
  },
@@ -917,11 +917,11 @@ window.FESTES_LOCALS = [
   "festes": [
    {
     "data": "2027-01-18",
-    "nom": "San Antonio Abad"
+    "nom": "Sant Antoni Abat"
    },
    {
     "data": "2027-04-05",
-    "nom": "San Vicente"
+    "nom": "Sant Vicent"
    }
   ]
  },
@@ -945,11 +945,11 @@ window.FESTES_LOCALS = [
   "festes": [
    {
     "data": "2027-08-20",
-    "nom": "San Bernardo Abad"
+    "nom": "Sant Bernat Abat"
    },
    {
     "data": "2027-09-21",
-    "nom": "Purisima"
+    "nom": "La Puríssima"
    }
   ]
  },
@@ -1001,11 +1001,11 @@ window.FESTES_LOCALS = [
   "festes": [
    {
     "data": "2027-04-05",
-    "nom": "San Vicente"
+    "nom": "Sant Vicent"
    },
    {
     "data": "2027-08-24",
-    "nom": "San Bartolomé"
+    "nom": "Sant Bertomeu"
    }
   ]
  },
@@ -1071,11 +1071,11 @@ window.FESTES_LOCALS = [
   "festes": [
    {
     "data": "2027-05-15",
-    "nom": "San Isidro"
+    "nom": "Sant Isidre"
    },
    {
     "data": "2027-11-25",
-    "nom": "Santa Catalina"
+    "nom": "Santa Caterina"
    }
   ]
  },
@@ -1127,11 +1127,11 @@ window.FESTES_LOCALS = [
   "festes": [
    {
     "data": "2027-04-05",
-    "nom": "San Vicente"
+    "nom": "Sant Vicent"
    },
    {
     "data": "2027-09-27",
-    "nom": "San Miguel"
+    "nom": "Sant Miquel"
    }
   ]
  },
@@ -1215,7 +1215,7 @@ window.FESTES_LOCALS = [
    },
    {
     "data": "2027-02-03",
-    "nom": "San Blas"
+    "nom": "Sant Blai"
    }
   ]
  },
@@ -1267,11 +1267,11 @@ window.FESTES_LOCALS = [
   "festes": [
    {
     "data": "2027-03-25",
-    "nom": "Jueves Santo"
+    "nom": "Dijous Sant"
    },
    {
     "data": "2027-07-16",
-    "nom": "Virgen del Carmen"
+    "nom": "Mare de Déu del Carme"
    }
   ]
  },
@@ -1295,11 +1295,11 @@ window.FESTES_LOCALS = [
   "festes": [
    {
     "data": "2027-09-01",
-    "nom": "Nuestra Señora de la Esperanza"
+    "nom": "Mare de Déu de l'Esperança"
    },
    {
     "data": "2027-09-03",
-    "nom": "Nuestra Señora de Loreto"
+    "nom": "Mare de Déu de Loreto"
    }
   ]
  },
@@ -1337,11 +1337,11 @@ window.FESTES_LOCALS = [
   "festes": [
    {
     "data": "2027-09-23",
-    "nom": "Santísimo Cristo de la Sangre"
+    "nom": "Santíssim Crist de la Sang"
    },
    {
     "data": "2027-09-24",
-    "nom": "San Miguel Arcángel"
+    "nom": "Sant Miquel Arcàngel"
    }
   ]
  },
@@ -1365,11 +1365,11 @@ window.FESTES_LOCALS = [
   "festes": [
    {
     "data": "2027-02-03",
-    "nom": "San Blas"
+    "nom": "Sant Blai"
    },
    {
     "data": "2027-10-25",
-    "nom": "Cristo de la Clemencia"
+    "nom": "Crist de la Clemència"
    }
   ]
  },
@@ -1393,7 +1393,7 @@ window.FESTES_LOCALS = [
   "festes": [
    {
     "data": "2027-05-15",
-    "nom": "San Isidro"
+    "nom": "Sant Isidre"
    },
    {
     "data": "2027-10-15",
@@ -1449,11 +1449,11 @@ window.FESTES_LOCALS = [
   "festes": [
    {
     "data": "2027-09-08",
-    "nom": "Virgen de la cueva Santa"
+    "nom": "Mare de Déu de la Cova Santa"
    },
    {
     "data": "2027-09-09",
-    "nom": "Santísimo Cristo de la Misericordia"
+    "nom": "Santíssim Crist de la Misericòrdia"
    }
   ]
  },
@@ -1477,11 +1477,11 @@ window.FESTES_LOCALS = [
   "festes": [
    {
     "data": "2027-08-06",
-    "nom": "Stmo. Salvador"
+    "nom": "Santíssim Salvador"
    },
    {
     "data": "2027-12-03",
-    "nom": "Santa Bárbara"
+    "nom": "Santa Bàrbara"
    }
   ]
  },
@@ -1505,11 +1505,11 @@ window.FESTES_LOCALS = [
   "festes": [
    {
     "data": "2027-08-02",
-    "nom": "San Onofre"
+    "nom": "Sant Onofre"
    },
    {
     "data": "2027-08-03",
-    "nom": "Sagrado Corazón de Jesús"
+    "nom": "Sagrat Cor de Jesús"
    }
   ]
  },
@@ -1589,11 +1589,11 @@ window.FESTES_LOCALS = [
   "festes": [
    {
     "data": "2027-04-05",
-    "nom": "San Vicente Ferrer"
+    "nom": "Sant Vicent Ferrer"
    },
    {
     "data": "2027-10-11",
-    "nom": "Sagrada Familia"
+    "nom": "Sagrada Família"
    }
   ]
  },
@@ -1617,11 +1617,11 @@ window.FESTES_LOCALS = [
   "festes": [
    {
     "data": "2027-05-03",
-    "nom": "Santa Cruz"
+    "nom": "Santa Creu"
    },
    {
     "data": "2027-12-27",
-    "nom": "San Juan Evangelista"
+    "nom": "Sant Joan Evangelista"
    }
   ]
  },
@@ -1701,11 +1701,11 @@ window.FESTES_LOCALS = [
   "festes": [
    {
     "data": "2027-02-03",
-    "nom": "San Blas"
+    "nom": "Sant Blai"
    },
    {
     "data": "2027-08-10",
-    "nom": "San Lorenzo"
+    "nom": "Sant Llorenç"
    }
   ]
  },
@@ -1715,11 +1715,11 @@ window.FESTES_LOCALS = [
   "festes": [
    {
     "data": "2027-01-20",
-    "nom": "San Sebastián"
+    "nom": "Sant Sebastià"
    },
    {
     "data": "2027-04-05",
-    "nom": "San Vicente"
+    "nom": "Sant Vicent"
    }
   ]
  },
@@ -1785,11 +1785,11 @@ window.FESTES_LOCALS = [
   "festes": [
    {
     "data": "2027-01-20",
-    "nom": "San Sebastián"
+    "nom": "Sant Sebastià"
    },
    {
     "data": "2027-06-24",
-    "nom": "San Juan"
+    "nom": "Sant Joan"
    }
   ]
  },
@@ -1813,11 +1813,11 @@ window.FESTES_LOCALS = [
   "festes": [
    {
     "data": "2027-04-09",
-    "nom": "San Francisco"
+    "nom": "Sant Francesc"
    },
    {
     "data": "2027-09-24",
-    "nom": "San Miguel"
+    "nom": "Sant Miquel"
    }
   ]
  },
@@ -1841,11 +1841,11 @@ window.FESTES_LOCALS = [
   "festes": [
    {
     "data": "2027-04-05",
-    "nom": "San Vicente Ferrer"
+    "nom": "Sant Vicent Ferrer"
    },
    {
     "data": "2027-09-20",
-    "nom": "Día de Almas"
+    "nom": "Dia de les Ànimes"
    }
   ]
  },

@@ -93,7 +93,77 @@ def neteja_descripcio(text):
             if t.lower().startswith(pre):
                 t, canvi = t[len(pre):], True
     t = t.strip(" ,.;:")
-    return t[:1].upper() + t[1:] if t else ""
+    t = t[:1].upper() + t[1:] if t else ""
+    if t and t not in TRADUCCIONS:
+        print("SENSE TRADUCCIÓ:", t, file=sys.stderr)
+    return TRADUCCIONS.get(t, t)
+
+
+# Descripcions del BOP (en castellà) → valencià
+TRADUCCIONS = {
+    "Asunción de la Virgen": "Assumpció de la Mare de Déu",
+    "Candelera": "Candelera",
+    "Conversió de Sant Pau": "Conversió de Sant Pau",
+    "Cristo de la Clemencia": "Crist de la Clemència",
+    "Cristo de la Sangre": "Crist de la Sang",
+    "Día de Almas": "Dia de les Ànimes",
+    "El Cristo": "El Crist",
+    "El Cristo de la Sed": "Crist de la Set",
+    "Fiestas patronales": "Festes patronals",
+    "Jueves Santo": "Dijous Sant",
+    "La Mare de Déu": "La Mare de Déu",
+    "Lunes de Magdalena": "Dilluns de la Magdalena",
+    "Lunes de la Magdalena": "Dilluns de la Magdalena",
+    "Lunes de feria": "Dilluns de fira",
+    "Ntra. Sra. de los Ángeles": "Mare de Déu dels Àngels",
+    "Nuestra Señora de Loreto": "Mare de Déu de Loreto",
+    "Nuestra Señora de la Esperanza": "Mare de Déu de l'Esperança",
+    "Ortisella": "Festa de l'Ortisella",
+    "Pascua Pentecostés": "Pasqua de Pentecosta",
+    "Purisima": "La Puríssima",
+    "Sagrada Familia": "Sagrada Família",
+    "Sagrado Corazón de Jesús": "Sagrat Cor de Jesús",
+    "San Ambrosio": "Sant Ambrosi",
+    "San Antonio Abad": "Sant Antoni Abat",
+    "San Antonio Abad y Santa Águeda": "Sant Antoni Abat i Santa Àgueda",
+    "San Bartolomé": "Sant Bertomeu",
+    "San Bernardo Abad": "Sant Bernat Abat",
+    "San Blas": "Sant Blai",
+    "San Cristóbal": "Sant Cristòfol",
+    "San Francisco": "Sant Francesc",
+    "San Isidro": "Sant Isidre",
+    "San Juan": "Sant Joan",
+    "San Juan Evangelista": "Sant Joan Evangelista",
+    "San Juan de Peñagolosa": "Sant Joan de Penyagolosa",
+    "San Lorenzo": "Sant Llorenç",
+    "San Miguel": "Sant Miquel",
+    "San Miguel Arcángel": "Sant Miquel Arcàngel",
+    "San Miquel": "Sant Miquel",
+    "San Onofre": "Sant Onofre",
+    "San Pedro": "Sant Pere",
+    "San Roque": "Sant Roc",
+    "San Sebastián": "Sant Sebastià",
+    "San Vicente": "Sant Vicent",
+    "San Vicente Ferrer": "Sant Vicent Ferrer",
+    "Santa Bárbara": "Santa Bàrbara",
+    "Santa Catalina": "Santa Caterina",
+    "Santa Cruz": "Santa Creu",
+    "Santa Quiteria": "Santa Quitèria",
+    "Santa Teresa": "Santa Teresa",
+    "Santa Águeda": "Santa Àgueda",
+    "Santa Úrsula": "Santa Úrsula",
+    "Santo Tomás de Villanueva": "Sant Tomàs de Villanueva",
+    "Santísimo Cristo de la Misericordia": "Santíssim Crist de la Misericòrdia",
+    "Santísimo Cristo de la Sangre": "Santíssim Crist de la Sang",
+    "Santísimo Cristo del Calvario": "Santíssim Crist del Calvari",
+    "Segundo día de la festividad de la Virgen del Niño Perdido": "Segon dia de la Mare de Déu del Niño Perdido",
+    "Stmo. Salvador": "Santíssim Salvador",
+    "Tercer día de navidad": "Tercer dia de Nadal",
+    "Virgen de la Misericordia": "Mare de Déu de la Misericòrdia",
+    "Virgen de la cueva Santa": "Mare de Déu de la Cova Santa",
+    "Virgen del Carmen": "Mare de Déu del Carme",
+    "“La Doblà”": "«La Doblà»",
+}
 
 
 def clau_ordre(nom):
