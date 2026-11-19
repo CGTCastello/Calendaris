@@ -251,7 +251,7 @@
     doc.text("CONFEDERACIÓ GENERAL DEL TREBALL", xt, yPeu + 2.5);
     doc.text("FEDERACIÓ INTERCOMARCAL DE CASTELLÓ", xt, yPeu + 5.6);
     font(doc, "bold", 5.6);
-    doc.text("Av. Vall d'Uixó, 30, entresol B · C.P. 12004 · Castelló de la Plana", xt, yPeu + 8.8);
+    doc.text("Carrer Borriol, 2, baix B · C.P. 12006 · Castelló de la Plana", xt, yPeu + 8.8);
     doc.text("Telf: 964 25 06 36 · 658 39 90 14", xt, yPeu + 11.5);
     doc.text("castello@cgtpv.org", xt, yPeu + 14.2);
     font(doc, "anton", 13);
