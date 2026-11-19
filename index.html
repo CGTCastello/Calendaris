@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="ca-valencia">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Calendari laboral 2027 · CGT Castelló</title>
+  <meta name="description" content="Descarrega el calendari laboral 2027 del teu municipi de la província de Castelló, amb les festes nacionals, autonòmiques i locals.">
+  <link rel="icon" href="assets/cgt-castello-color.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Anton&family=Open+Sans:wght@400;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/estil.css">
+</head>
+<body>
+  <header class="capcalera">
+    <a href="https://cgtcastello.org" class="logo"><img src="assets/cgt-castello-color.svg" alt="CGT Castelló" width="120" height="71"></a>
+  </header>
+
+  <main>
+    <section class="intro">
+      <span class="etiqueta">Eina</span>
+      <p class="kicker">CGT Castelló · Calendari laboral</p>
+      <h1>Calendari laboral <span class="roig">2027</span></h1>
+      <p class="entradeta">Tria el teu municipi i descarrega el calendari en PDF amb les 14 festes de l'any: les nacionals, les autonòmiques de la Comunitat Valenciana i les dues locals.</p>
+    </section>
+
+    <section class="tria">
+      <label for="municipi" class="kicker">Municipi</label>
+      <div class="fila-tria">
+        <select id="municipi"></select>
+        <button id="descarrega" type="button" class="boto">Descarrega el PDF</button>
+      </div>
+      <p id="estat" class="estat" role="status" aria-live="polite"></p>
+    </section>
+
+    <section class="resultat">
+      <div class="festes">
+        <h2 id="titol-festes">Festes</h2>
+        <ul id="llista-festes" class="llista-festes"></ul>
+        <ul class="llegenda">
+          <li><span class="mostra nacional"></span>Nacional</li>
+          <li><span class="mostra autonomic"></span>Autonòmic (C. Valenciana)</li>
+          <li><span class="mostra local"></span>Local</li>
+        </ul>
+      </div>
+      <div class="calendari" id="calendari" aria-label="Vista prèvia del calendari"></div>
+    </section>
+  </main>
+
+  <footer class="peu">
+    <p class="font">Fonts: Decret 42/2026, de 20 de març, del Consell (calendari laboral 2027 de la Comunitat Valenciana) i BOP de Castelló núm. 136, de 10 de novembre de 2026 (festes locals de la província de Castelló).</p>
+    <div class="peu-fila">
+      <a href="https://cgtcastello.org" class="web">cgtcastello.org</a>
+      <img src="assets/cgt-castello-color.svg" alt="CGT Castelló" width="92" height="54">
+    </div>
+  </footer>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+  <script src="js/festius.js"></script>
+  <script src="js/dades-locals.js"></script>
+  <script src="js/calendari-pdf.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
